@@ -1,0 +1,27 @@
+{
+  "baseline": {
+    "paper": "https://arxiv.org/abs/1810.08462",
+    "repository": "https://github.com/rcdaudt/fully_convolutional_change_detection",
+    "path": "siamunet_diff.py",
+    "github_blob_sha1": "eb90957528253a6b207bbc5de0af184c34fde730",
+    "local_git_blob_sha1": "eb90957528253a6b207bbc5de0af184c34fde730",
+    "sha256": "7fb2db177141865333d931ff24c00c35b9df60481ce2b978d3db674867f01e07",
+    "use": "Unmodified author network; wrapper converts log probabilities to binary logit. No repository-wide license grant was identified; retain attribution, local academic use, check before redistribution."
+  },
+  "dataset": {
+    "page": "https://justchenhao.github.io/LEVIR/",
+    "drive_folder": "https://drive.google.com/drive/folders/1dLuzldMRmbBNKPpUkX8Z53hi6NHLrWim",
+    "paper_doi": "10.3390/rs12101662",
+    "usage": "academic only; Google Earth terms apply"
+  },
+  "mean_teacher": {
+    "paper": "https://papers.neurips.cc/paper_files/paper/2017/hash/68053af2923e00204c3ca7c6a3150cf7-Abstract.html",
+    "use": "EMA teacher mechanism; current confidence-masked BCE is project implementation, not exact original training recipe"
+  },
+  "related_semicd": {
+    "paper": "https://arxiv.org/abs/2204.08454",
+    "use": "Related work only; this project does not reproduce SemiCD architecture or claim its scores"
+  },
+  "protocol": "D08 images and supplied proposal; boundary weighting is a project design requiring ablation",
+  "verified_on": "2026-10-31"
+}

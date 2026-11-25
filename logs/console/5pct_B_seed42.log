@@ -1,0 +1,123 @@
+Training /Users/wjj/Documents/Codex/2026-10-26/zuo/outputs/RemoteSensingChangeDetection/runs_strict_v3/5pct_B_seed42 device mps positive_weight 20.0
+epoch 1/100 loss=2.2922 val_f1=0.0215 coverage=0.000 positive_coverage=0.0000
+epoch 2/100 loss=2.0445 val_f1=not_scheduled coverage=0.000 positive_coverage=0.0000
+epoch 3/100 loss=2.0823 val_f1=not_scheduled coverage=0.000 positive_coverage=0.0000
+epoch 4/100 loss=2.0732 val_f1=not_scheduled coverage=0.000 positive_coverage=0.0000
+epoch 5/100 loss=2.0906 val_f1=0.2600 coverage=0.000 positive_coverage=0.0000
+epoch 6/100 loss=1.9754 val_f1=not_scheduled coverage=0.000 positive_coverage=0.0000
+epoch 7/100 loss=1.8934 val_f1=not_scheduled coverage=0.000 positive_coverage=0.0000
+epoch 8/100 loss=1.9400 val_f1=not_scheduled coverage=0.000 positive_coverage=0.0000
+epoch 9/100 loss=2.0965 val_f1=not_scheduled coverage=0.000 positive_coverage=0.0000
+epoch 10/100 loss=1.8931 val_f1=0.2665 coverage=0.000 positive_coverage=0.0000
+epoch 11/100 loss=1.9572 val_f1=not_scheduled coverage=0.408 positive_coverage=0.0000
+epoch 12/100 loss=2.0336 val_f1=not_scheduled coverage=0.366 positive_coverage=0.0000
+epoch 13/100 loss=1.7483 val_f1=not_scheduled coverage=0.410 positive_coverage=0.0000
+epoch 14/100 loss=1.9724 val_f1=not_scheduled coverage=0.467 positive_coverage=0.0000
+epoch 15/100 loss=1.9228 val_f1=0.3018 coverage=0.443 positive_coverage=0.0000
+epoch 16/100 loss=1.8874 val_f1=not_scheduled coverage=0.364 positive_coverage=0.0000
+epoch 17/100 loss=1.9043 val_f1=not_scheduled coverage=0.461 positive_coverage=0.0000
+epoch 18/100 loss=1.9353 val_f1=not_scheduled coverage=0.495 positive_coverage=0.0000
+epoch 19/100 loss=1.8256 val_f1=not_scheduled coverage=0.484 positive_coverage=0.0000
+epoch 20/100 loss=1.9605 val_f1=0.3645 coverage=0.491 positive_coverage=0.0000
+epoch 21/100 loss=1.9090 val_f1=not_scheduled coverage=0.512 positive_coverage=0.0000
+epoch 22/100 loss=1.8743 val_f1=not_scheduled coverage=0.561 positive_coverage=0.0000
+epoch 23/100 loss=1.8695 val_f1=not_scheduled coverage=0.557 positive_coverage=0.0000
+epoch 24/100 loss=1.9291 val_f1=not_scheduled coverage=0.560 positive_coverage=0.0000
+epoch 25/100 loss=1.7956 val_f1=0.3470 coverage=0.574 positive_coverage=0.0000
+epoch 26/100 loss=1.8965 val_f1=not_scheduled coverage=0.578 positive_coverage=0.0000
+epoch 27/100 loss=2.1043 val_f1=not_scheduled coverage=0.595 positive_coverage=0.0000
+epoch 28/100 loss=1.9356 val_f1=not_scheduled coverage=0.554 positive_coverage=0.0000
+epoch 29/100 loss=1.8699 val_f1=not_scheduled coverage=0.577 positive_coverage=0.0000
+epoch 30/100 loss=1.8939 val_f1=0.3243 coverage=0.607 positive_coverage=0.0000
+epoch 31/100 loss=1.8573 val_f1=not_scheduled coverage=0.603 positive_coverage=0.0000
+epoch 32/100 loss=2.0522 val_f1=not_scheduled coverage=0.603 positive_coverage=0.0000
+epoch 33/100 loss=1.8686 val_f1=not_scheduled coverage=0.630 positive_coverage=0.0004
+epoch 34/100 loss=2.0367 val_f1=not_scheduled coverage=0.606 positive_coverage=0.0013
+epoch 35/100 loss=1.9175 val_f1=0.3859 coverage=0.601 positive_coverage=0.0032
+epoch 36/100 loss=1.9491 val_f1=not_scheduled coverage=0.597 positive_coverage=0.0045
+epoch 37/100 loss=1.8712 val_f1=not_scheduled coverage=0.583 positive_coverage=0.0069
+epoch 38/100 loss=1.9572 val_f1=not_scheduled coverage=0.629 positive_coverage=0.0042
+epoch 39/100 loss=1.8970 val_f1=not_scheduled coverage=0.634 positive_coverage=0.0043
+epoch 40/100 loss=1.8797 val_f1=0.4086 coverage=0.652 positive_coverage=0.0043
+epoch 41/100 loss=1.8613 val_f1=not_scheduled coverage=0.637 positive_coverage=0.0072
+epoch 42/100 loss=1.8269 val_f1=not_scheduled coverage=0.635 positive_coverage=0.0057
+epoch 43/100 loss=1.9681 val_f1=not_scheduled coverage=0.671 positive_coverage=0.0068
+epoch 44/100 loss=1.7853 val_f1=not_scheduled coverage=0.672 positive_coverage=0.0086
+epoch 45/100 loss=1.8409 val_f1=0.3886 coverage=0.678 positive_coverage=0.0132
+epoch 46/100 loss=1.7988 val_f1=not_scheduled coverage=0.703 positive_coverage=0.0102
+epoch 47/100 loss=1.7600 val_f1=not_scheduled coverage=0.670 positive_coverage=0.0108
+epoch 48/100 loss=1.8993 val_f1=not_scheduled coverage=0.691 positive_coverage=0.0122
+epoch 49/100 loss=1.9994 val_f1=not_scheduled coverage=0.655 positive_coverage=0.0126
+epoch 50/100 loss=1.7730 val_f1=0.4652 coverage=0.630 positive_coverage=0.0108
+epoch 51/100 loss=1.8446 val_f1=not_scheduled coverage=0.646 positive_coverage=0.0103
+epoch 52/100 loss=1.7697 val_f1=not_scheduled coverage=0.670 positive_coverage=0.0114
+epoch 53/100 loss=1.8748 val_f1=not_scheduled coverage=0.687 positive_coverage=0.0118
+epoch 54/100 loss=1.8473 val_f1=not_scheduled coverage=0.712 positive_coverage=0.0093
+epoch 55/100 loss=1.8219 val_f1=0.4876 coverage=0.701 positive_coverage=0.0144
+epoch 56/100 loss=1.8154 val_f1=not_scheduled coverage=0.695 positive_coverage=0.0195
+epoch 57/100 loss=1.8133 val_f1=not_scheduled coverage=0.660 positive_coverage=0.0197
+epoch 58/100 loss=1.7301 val_f1=not_scheduled coverage=0.706 positive_coverage=0.0159
+epoch 59/100 loss=1.7724 val_f1=not_scheduled coverage=0.720 positive_coverage=0.0164
+epoch 60/100 loss=2.0104 val_f1=0.4792 coverage=0.690 positive_coverage=0.0177
+Traceback (most recent call last):
+  File "/Users/wjj/Documents/Codex/2026-10-26/zuo/outputs/RemoteSensingChangeDetection/versions/strict_budget_v3/main.py", line 130, in <module>
+    main()
+  File "/Users/wjj/Documents/Codex/2026-10-26/zuo/outputs/RemoteSensingChangeDetection/versions/strict_budget_v3/main.py", line 94, in main
+    train(load_config(args))
+  File "/Users/wjj/Documents/Codex/2026-10-26/zuo/outputs/RemoteSensingChangeDetection/versions/strict_budget_v3/cd/train.py", line 107, in train
+    ul,stats=pseudo_loss(model(ast,bst),probability,c['pseudo_high'],c['pseudo_low'],boundary,c['boundary_radius'],c.get('pseudo_class_balance',False))
+  File "/Users/wjj/Documents/Codex/2026-10-26/zuo/outputs/RemoteSensingChangeDetection/versions/strict_budget_v3/cd/losses.py", line 34, in pseudo_loss
+    stats = {'coverage': keep.mean().item(), 'positive_coverage': (keep * target).mean().item()}
+KeyboardInterrupt
+Training /Users/wjj/Documents/Codex/2026-10-26/zuo/outputs/RemoteSensingChangeDetection/runs_strict_v3/5pct_B_seed42 device mps positive_weight 20.0
+epoch 61/100 loss=1.6829 val_f1=not_scheduled coverage=0.657 positive_coverage=0.0178
+epoch 62/100 loss=1.9176 val_f1=not_scheduled coverage=0.707 positive_coverage=0.0171
+epoch 63/100 loss=1.7325 val_f1=not_scheduled coverage=0.709 positive_coverage=0.0189
+epoch 64/100 loss=1.6423 val_f1=not_scheduled coverage=0.732 positive_coverage=0.0140
+epoch 65/100 loss=1.6338 val_f1=0.5234 coverage=0.734 positive_coverage=0.0118
+epoch 66/100 loss=1.7971 val_f1=not_scheduled coverage=0.742 positive_coverage=0.0168
+epoch 67/100 loss=1.6709 val_f1=not_scheduled coverage=0.759 positive_coverage=0.0171
+epoch 68/100 loss=1.6619 val_f1=not_scheduled coverage=0.757 positive_coverage=0.0194
+epoch 69/100 loss=1.6507 val_f1=not_scheduled coverage=0.778 positive_coverage=0.0152
+epoch 70/100 loss=1.7274 val_f1=0.5221 coverage=0.758 positive_coverage=0.0226
+Traceback (most recent call last):
+  File "/Users/wjj/Documents/Codex/2026-10-26/zuo/outputs/RemoteSensingChangeDetection/versions/strict_budget_v3/main.py", line 130, in <module>
+    main()
+  File "/Users/wjj/Documents/Codex/2026-10-26/zuo/outputs/RemoteSensingChangeDetection/versions/strict_budget_v3/main.py", line 94, in main
+    train(load_config(args))
+  File "/Users/wjj/Documents/Codex/2026-10-26/zuo/outputs/RemoteSensingChangeDetection/versions/strict_budget_v3/cd/train.py", line 102, in train
+    logits=model(a,b);sl=supervised_loss(logits,y,boundary,c['boundary_radius'],c['positive_weight'])
+  File "/Users/wjj/Documents/Codex/2026-10-26/zuo/outputs/RemoteSensingChangeDetection/versions/strict_budget_v3/cd/losses.py", line 14, in supervised_loss
+    bce = (F.binary_cross_entropy_with_logits(logits, target, reduction='none', pos_weight=logits.new_tensor(positive_weight)) * weights).sum() / weights.sum()
+KeyboardInterrupt
+Training /Users/wjj/Documents/Codex/2026-10-26/zuo/outputs/RemoteSensingChangeDetection/runs_strict_v3/5pct_B_seed42 device mps positive_weight 20.0
+epoch 71/100 loss=1.7439 val_f1=not_scheduled coverage=0.772 positive_coverage=0.0167
+epoch 72/100 loss=1.7028 val_f1=not_scheduled coverage=0.754 positive_coverage=0.0169
+epoch 73/100 loss=1.8128 val_f1=not_scheduled coverage=0.760 positive_coverage=0.0183
+epoch 74/100 loss=1.5251 val_f1=not_scheduled coverage=0.766 positive_coverage=0.0218
+epoch 75/100 loss=1.6993 val_f1=0.5250 coverage=0.781 positive_coverage=0.0170
+epoch 76/100 loss=1.6301 val_f1=not_scheduled coverage=0.778 positive_coverage=0.0200
+epoch 77/100 loss=1.5946 val_f1=not_scheduled coverage=0.788 positive_coverage=0.0145
+epoch 78/100 loss=1.7332 val_f1=not_scheduled coverage=0.770 positive_coverage=0.0176
+epoch 79/100 loss=1.5950 val_f1=not_scheduled coverage=0.780 positive_coverage=0.0159
+epoch 80/100 loss=1.5463 val_f1=0.5592 coverage=0.783 positive_coverage=0.0153
+epoch 81/100 loss=1.7313 val_f1=not_scheduled coverage=0.796 positive_coverage=0.0187
+epoch 82/100 loss=1.4849 val_f1=not_scheduled coverage=0.782 positive_coverage=0.0182
+epoch 83/100 loss=1.6038 val_f1=not_scheduled coverage=0.808 positive_coverage=0.0153
+epoch 84/100 loss=1.4758 val_f1=not_scheduled coverage=0.786 positive_coverage=0.0215
+epoch 85/100 loss=1.6934 val_f1=0.5614 coverage=0.794 positive_coverage=0.0178
+epoch 86/100 loss=1.6907 val_f1=not_scheduled coverage=0.799 positive_coverage=0.0213
+epoch 87/100 loss=1.5687 val_f1=not_scheduled coverage=0.784 positive_coverage=0.0190
+epoch 88/100 loss=1.6435 val_f1=not_scheduled coverage=0.798 positive_coverage=0.0191
+epoch 89/100 loss=1.6517 val_f1=not_scheduled coverage=0.801 positive_coverage=0.0188
+epoch 90/100 loss=1.6958 val_f1=0.5591 coverage=0.801 positive_coverage=0.0185
+epoch 91/100 loss=1.6052 val_f1=not_scheduled coverage=0.757 positive_coverage=0.0216
+epoch 92/100 loss=1.6847 val_f1=not_scheduled coverage=0.800 positive_coverage=0.0184
+epoch 93/100 loss=1.4794 val_f1=not_scheduled coverage=0.786 positive_coverage=0.0217
+epoch 94/100 loss=1.6425 val_f1=not_scheduled coverage=0.764 positive_coverage=0.0255
+epoch 95/100 loss=1.6573 val_f1=0.5728 coverage=0.792 positive_coverage=0.0173
+epoch 96/100 loss=1.7365 val_f1=not_scheduled coverage=0.769 positive_coverage=0.0270
+epoch 97/100 loss=1.6810 val_f1=not_scheduled coverage=0.772 positive_coverage=0.0224
+epoch 98/100 loss=1.7783 val_f1=not_scheduled coverage=0.777 positive_coverage=0.0243
+epoch 99/100 loss=1.6257 val_f1=not_scheduled coverage=0.793 positive_coverage=0.0167
+epoch 100/100 loss=1.5420 val_f1=0.5343 coverage=0.789 positive_coverage=0.0209

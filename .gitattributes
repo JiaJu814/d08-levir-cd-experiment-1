@@ -1,0 +1,2 @@
+logs/** -text
+results/summary.csv -text whitespace=cr-at-eol

@@ -1,0 +1,13 @@
+.venv/
+.python_packages/
+__pycache__/
+.DS_Store
+.idea/
+data/
+runs_strict_v3/
+work/
+docs/status.json
+*.pt
+*.pth
+*.zip
+versions/strict_budget_v3/cd/official_siamunet_diff.py

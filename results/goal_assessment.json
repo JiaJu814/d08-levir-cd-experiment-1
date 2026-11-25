@@ -1,0 +1,27 @@
+{
+  "target": "10%标注 B-A 测试F1均值提升至少3个百分点，3个配对种子",
+  "paired_seeds": [
+    17,
+    42,
+    2026
+  ],
+  "delta_f1_percentage_points": [
+    1.9868394790068855,
+    1.5159364220401261,
+    1.5385148725321374
+  ],
+  "mean_delta_percentage_points": 1.6804302578597163,
+  "std_delta_percentage_points": 0.2655982016310844,
+  "paired_mean_95pct_t_interval": [
+    1.020647749023048,
+    2.340212766696385
+  ],
+  "target_met": false,
+  "test_used_for_tuning": false,
+  "scope": "Frozen strict_budget_v3 only; exploratory runs excluded.",
+  "full_matrix_complete": true,
+  "completed_test_runs": 39,
+  "expected_test_runs": 39,
+  "f1_gain_criterion_met": false,
+  "annotation_budget_valid": true
+}

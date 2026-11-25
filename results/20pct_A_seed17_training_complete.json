@@ -1,0 +1,6 @@
+{
+  "best_val_f1": 0.611289876471875,
+  "seconds": 4084.6171140670776,
+  "epochs": 100,
+  "test_evaluated": false
+}
