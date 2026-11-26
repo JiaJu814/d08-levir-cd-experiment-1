@@ -1,0 +1,8 @@
+{
+  "status": "blocked",
+  "pid": 16332,
+  "started": 1795179787.4852028,
+  "seed": 2026,
+  "error": "Traceback (most recent call last):\n  File \"D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\D08_ThreeSeeds\\queue_runner.py\", line 88, in run\n    raise RuntimeError(f\"Seed {seed} ended as {verified['status']}\")\nRuntimeError: Seed 2026 ended as incomplete\n",
+  "ended": 1795194748.1808097
+}

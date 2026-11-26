@@ -1,0 +1,42 @@
+{
+  "completed": true,
+  "steps": 15000,
+  "supervised_samples": 60000,
+  "best_val_f1": 0.6822452119332962,
+  "last_val": {
+    "tp": 1659557,
+    "fp": 404257,
+    "fn": 1156711,
+    "tn": 63888339,
+    "f1": 0.6801348829794254,
+    "iou": 0.5153063553302645,
+    "precision": 0.8041213985368837,
+    "recall": 0.5892752394303383,
+    "false_positive_rate": 0.006287769123523959,
+    "false_negative_rate": 0.4107247605696617,
+    "images": 64,
+    "threshold": 0.5,
+    "seconds": 5.634507656097412,
+    "test_accessed": false,
+    "ap": 0.7513316696753163,
+    "precision_at_recall": {
+      "0.4": 0.90671335210515,
+      "0.5": 0.8662453686644591,
+      "0.55": 0.8356370341438993,
+      "0.6": 0.7941794371193657,
+      "0.7": 0.6926292743660294
+    }
+  },
+  "seconds": 2393.9388031959534,
+  "unique_labeled_pairs": 44,
+  "pseudo_totals": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "test_accessed": false,
+  "formal_result": false,
+  "note": "Fixed-step diagnostic, not proof of convergence; supervised and semi training costs differ."
+}

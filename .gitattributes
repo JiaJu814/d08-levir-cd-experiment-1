@@ -1,2 +1,3 @@
-logs/** -text
-results/summary.csv -text whitespace=cr-at-eol
+*.log -text
+*.jsonl -text
+实验一-本机严格预算/results/summary.csv -text whitespace=cr-at-eol

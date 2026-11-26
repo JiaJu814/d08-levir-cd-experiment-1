@@ -1,0 +1,266 @@
+[
+  {
+    "name": "train_132.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_132.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_132.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_132.png"
+  },
+  {
+    "name": "train_136.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_136.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_136.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_136.png"
+  },
+  {
+    "name": "train_351.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_351.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_351.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_351.png"
+  },
+  {
+    "name": "train_260.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_260.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_260.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_260.png"
+  },
+  {
+    "name": "train_339.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_339.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_339.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_339.png"
+  },
+  {
+    "name": "train_409.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_409.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_409.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_409.png"
+  },
+  {
+    "name": "train_251.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_251.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_251.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_251.png"
+  },
+  {
+    "name": "train_104.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_104.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_104.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_104.png"
+  },
+  {
+    "name": "train_198.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_198.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_198.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_198.png"
+  },
+  {
+    "name": "train_207.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_207.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_207.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_207.png"
+  },
+  {
+    "name": "train_229.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_229.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_229.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_229.png"
+  },
+  {
+    "name": "train_7.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_7.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_7.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_7.png"
+  },
+  {
+    "name": "train_255.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_255.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_255.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_255.png"
+  },
+  {
+    "name": "train_268.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_268.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_268.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_268.png"
+  },
+  {
+    "name": "train_316.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_316.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_316.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_316.png"
+  },
+  {
+    "name": "train_245.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_245.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_245.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_245.png"
+  },
+  {
+    "name": "train_372.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_372.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_372.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_372.png"
+  },
+  {
+    "name": "train_74.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_74.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_74.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_74.png"
+  },
+  {
+    "name": "train_317.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_317.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_317.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_317.png"
+  },
+  {
+    "name": "train_228.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_228.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_228.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_228.png"
+  },
+  {
+    "name": "train_81.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_81.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_81.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_81.png"
+  },
+  {
+    "name": "train_13.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_13.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_13.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_13.png"
+  },
+  {
+    "name": "train_242.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_242.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_242.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_242.png"
+  },
+  {
+    "name": "train_18.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_18.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_18.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_18.png"
+  },
+  {
+    "name": "train_109.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_109.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_109.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_109.png"
+  },
+  {
+    "name": "train_415.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_415.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_415.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_415.png"
+  },
+  {
+    "name": "train_237.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_237.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_237.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_237.png"
+  },
+  {
+    "name": "train_23.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_23.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_23.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_23.png"
+  },
+  {
+    "name": "train_59.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_59.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_59.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_59.png"
+  },
+  {
+    "name": "train_154.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_154.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_154.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_154.png"
+  },
+  {
+    "name": "train_19.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_19.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_19.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_19.png"
+  },
+  {
+    "name": "train_102.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_102.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_102.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_102.png"
+  },
+  {
+    "name": "train_105.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_105.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_105.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_105.png"
+  },
+  {
+    "name": "train_179.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_179.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_179.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_179.png"
+  },
+  {
+    "name": "train_57.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_57.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_57.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_57.png"
+  },
+  {
+    "name": "train_405.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_405.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_405.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_405.png"
+  },
+  {
+    "name": "train_315.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_315.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_315.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_315.png"
+  },
+  {
+    "name": "train_282.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_282.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_282.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_282.png"
+  },
+  {
+    "name": "train_35.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_35.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_35.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_35.png"
+  },
+  {
+    "name": "train_24.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_24.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_24.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_24.png"
+  },
+  {
+    "name": "train_235.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_235.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_235.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_235.png"
+  },
+  {
+    "name": "train_100.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_100.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_100.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_100.png"
+  },
+  {
+    "name": "train_152.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_152.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_152.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_152.png"
+  },
+  {
+    "name": "train_412.png",
+    "a": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\A\\train_412.png",
+    "b": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\B\\train_412.png",
+    "label": "D:\\DSH\\D08_Win11_Stage1\\D08_Win11_Stage1\\data\\LEVIR-CD\\train\\label\\train_412.png"
+  }
+]

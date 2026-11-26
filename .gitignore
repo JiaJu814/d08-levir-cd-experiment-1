@@ -5,9 +5,7 @@ __pycache__/
 .idea/
 data/
 runs_strict_v3/
-work/
 docs/status.json
-*.pt
-*.pth
-*.zip
-versions/strict_budget_v3/cd/official_siamunet_diff.py
+实验一-本机严格预算/versions/strict_budget_v3/cd/official_siamunet_diff.py
+
+work/

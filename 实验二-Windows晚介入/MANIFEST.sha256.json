@@ -1,0 +1,870 @@
+{
+  "archive_format": "D08 second experiment complete archive",
+  "members": [
+    {
+      "archive_path": "正式测试/evaluate_frozen.py",
+      "bytes": 5352,
+      "sha256": "0a134e2ac055dcaf85bb857979648066d7b384cb04a7963b8e12050743ead53a"
+    },
+    {
+      "archive_path": "正式测试/protocol.json",
+      "bytes": 2395,
+      "sha256": "57719693bf6dd1c20ea921d626d865fab47342f90ae6770cf6c060fc84e351bd"
+    },
+    {
+      "archive_path": "正式测试/summary.json",
+      "bytes": 8554,
+      "sha256": "207bb82a76300488bc92deb24dace081db8163bf5efe29f80e10e55e244efa59"
+    },
+    {
+      "archive_path": "项目/D08_LatePseudo15000/Run-D08Pilot.ps1",
+      "bytes": 1393,
+      "sha256": "c28b953f708f423e1991c088417ece088dccdae38bb17512b3c9f3eeb718b570"
+    },
+    {
+      "archive_path": "项目/D08_LatePseudo15000/pilot.py",
+      "bytes": 15470,
+      "sha256": "42da42244fc52ac64234d73ecf9d567ab8756b99b43796d71bae0308368f66b5"
+    },
+    {
+      "archive_path": "项目/D08_LatePseudo15000/results/executed_worker.py",
+      "bytes": 16993,
+      "sha256": "641daf31fe70ba6a3056793f44413950a79c582f08d326f04d07d2dd929b811e"
+    },
+    {
+      "archive_path": "项目/D08_LatePseudo15000/results/launcher-ec574ab889fe404ba62a9e52078da220-error.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "archive_path": "项目/D08_LatePseudo15000/results/launcher-ec574ab889fe404ba62a9e52078da220.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "archive_path": "项目/D08_LatePseudo15000/results/manifests/labeled10.json",
+      "bytes": 15015,
+      "sha256": "8ae8cf42e84e4fd5c60b45707830fea8752724014d3a09a1a32f4d66270fd43c"
+    },
+    {
+      "archive_path": "项目/D08_LatePseudo15000/results/manifests/unlabeled10.json",
+      "bytes": 94342,
+      "sha256": "f01d080ac507d67379604d8742f912fb0a88a5e8cfb875063d63661ebe84b42b"
+    },
+    {
+      "archive_path": "项目/D08_LatePseudo15000/results/manifests/val.json",
+      "bytes": 20703,
+      "sha256": "70989bc123bad88f30956d8812f40967c79b8cd63745bfd6dd53b8926ea3dd26"
+    },
+    {
+      "archive_path": "项目/D08_LatePseudo15000/results/preflight.json",
+      "bytes": 3730,
+      "sha256": "c3d7410c2152866d6a598a729adba612253718967ca50cdde56c9b4520aeb6e8"
+    },
+    {
+      "archive_path": "项目/D08_LatePseudo15000/results/semi10.log",
+      "bytes": 1223,
+      "sha256": "ac2dc9b09bd1eb38f46c121a24e9aa281923964e18882d76d7f8c7ebd7843b6b"
+    },
+    {
+      "archive_path": "项目/D08_LatePseudo15000/results/semi10/best.pt",
+      "bytes": 5457313,
+      "sha256": "0e11f2d87fc952bdfcf1d616c971cadb887743258df854b4609ca7279c253886"
+    },
+    {
+      "archive_path": "项目/D08_LatePseudo15000/results/semi10/config.json",
+      "bytes": 3759,
+      "sha256": "c3f927ac0e2a3d87fd316105b81136b159793dd35ed895f215288f317b3d6cea"
+    },
+    {
+      "archive_path": "项目/D08_LatePseudo15000/results/semi10/history.json",
+      "bytes": 34506,
+      "sha256": "d35e4bdb0a0ec9dc26f7eb8c8d9ffa90efa47f157e52dff48dad46d94e9af49a"
+    },
+    {
+      "archive_path": "项目/D08_LatePseudo15000/results/semi10/last.pt",
+      "bytes": 21841915,
+      "sha256": "da64ff5451ceac9f5a7f14b61137ad14791f9870d622e0ad5d5d457497ee6506"
+    },
+    {
+      "archive_path": "项目/D08_LatePseudo15000/results/semi10/latest_validation.json",
+      "bytes": 23329,
+      "sha256": "baa75285bab233c4f1e94952cb8a1c60c3120144e3ebbe76e0b6ce2b380c8234"
+    },
+    {
+      "archive_path": "项目/D08_LatePseudo15000/results/semi10/result.json",
+      "bytes": 1117,
+      "sha256": "9a70897b3adb9a17ee828d5cbcdbd27666ba66698b9a45686e696b60cbdde44b"
+    },
+    {
+      "archive_path": "项目/D08_LatePseudo15000/results/semi10/runtime.json",
+      "bytes": 126,
+      "sha256": "ca9fb193e0e42bb1c76f4b3264249802f9cd7c7133325086f9b2d58bbce57958"
+    },
+    {
+      "archive_path": "项目/D08_LatePseudo15000/results/semi10/visuals/val_1.png_panels.png",
+      "bytes": 309745,
+      "sha256": "ef5602c2dc852e0fc6259abc04fe03cbb1c89011a56a546add390aae3f1eebea"
+    },
+    {
+      "archive_path": "项目/D08_LatePseudo15000/results/semi10/visuals/val_10.png_panels.png",
+      "bytes": 335647,
+      "sha256": "e7db575478fb682a77b60d4eff0c0f8414e1c00134ec7cca94a007ee57f715e0"
+    },
+    {
+      "archive_path": "项目/D08_LatePseudo15000/results/semi10/visuals/val_11.png_panels.png",
+      "bytes": 351298,
+      "sha256": "345518f828f363478c509663bf8380e5dfb47f303fdd72d21b474e4421ee105a"
+    },
+    {
+      "archive_path": "项目/D08_LatePseudo15000/results/summary.json",
+      "bytes": 7376,
+      "sha256": "2af8de82137917ca3706e9aadc27a42be02291f1bfcf62b3761f690b4350cf2b"
+    },
+    {
+      "archive_path": "项目/D08_LatePseudo15000/results/task.json",
+      "bytes": 3795,
+      "sha256": "1a002c25d7dca63dfee6b331f121bb75ff41420059a0947e347cb5cb16b72cd4"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/Run-D08Pilot.ps1",
+      "bytes": 1393,
+      "sha256": "c28b953f708f423e1991c088417ece088dccdae38bb17512b3c9f3eeb718b570"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/pilot.py",
+      "bytes": 13510,
+      "sha256": "e960d8c8a3f09383428d4708b67a276f24f9889bd62ef1c5ce23a0b8b0e3673c"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/executed_worker.py",
+      "bytes": 16993,
+      "sha256": "641daf31fe70ba6a3056793f44413950a79c582f08d326f04d07d2dd929b811e"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/launcher-f27ccdf69f1641998eefe1c351167526-error.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/launcher-f27ccdf69f1641998eefe1c351167526.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/manifests/labeled10.json",
+      "bytes": 15015,
+      "sha256": "8ae8cf42e84e4fd5c60b45707830fea8752724014d3a09a1a32f4d66270fd43c"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/manifests/unlabeled10.json",
+      "bytes": 94342,
+      "sha256": "f01d080ac507d67379604d8742f912fb0a88a5e8cfb875063d63661ebe84b42b"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/manifests/val.json",
+      "bytes": 20703,
+      "sha256": "70989bc123bad88f30956d8812f40967c79b8cd63745bfd6dd53b8926ea3dd26"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/preflight.json",
+      "bytes": 3730,
+      "sha256": "9493807678dfec752c83f8ab71e2107d2217b2b97c9dde7aac974eeaa1ebab9e"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/semi10.log",
+      "bytes": 1224,
+      "sha256": "1b89f467e7333e5a81a1ed5df98edc3a46bb15c4e71b6ab44b51d1fd60485d9d"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/semi10/best.pt",
+      "bytes": 5457313,
+      "sha256": "f864a6c756e265331b98b0d08addda9f437fdd5dea5f0242dddff3080b9830ef"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/semi10/config.json",
+      "bytes": 3759,
+      "sha256": "d4fb6d0b6c8577dd102e41c74b7fda42d2203678f11fbb61ae253c116b76ca60"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/semi10/history.json",
+      "bytes": 35785,
+      "sha256": "517132f4c23b7bdec84f13569b4d9521e1749e17f7ccbc29ebaf60b91e7d8162"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/semi10/last.pt",
+      "bytes": 21842107,
+      "sha256": "21e9b7d0284c648bb9103d558e0044115bcf706c866c0cdbd8cf75b572b149ff"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/semi10/latest_validation.json",
+      "bytes": 23450,
+      "sha256": "d51f7a990bbacf0a1b5daecee962a9c25cec0aa1f6c36c0d6f3c274ffec06df3"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/semi10/result.json",
+      "bytes": 1120,
+      "sha256": "f295ea511ea22da197f3c0fca9a0827d726015e313c81297d7ea86094bcbebc6"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/semi10/runtime.json",
+      "bytes": 127,
+      "sha256": "68e37b7b4c7e90f5973539a75af79923fa9a044c68c3cb82d40baeacf50ba939"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/semi10/visuals/val_1.png_panels.png",
+      "bytes": 360191,
+      "sha256": "ffcfc6f6f657fef932427194f8343549e70267ddf15da27fee1ae289140626dd"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/semi10/visuals/val_10.png_panels.png",
+      "bytes": 377319,
+      "sha256": "556ea997580383b2a700940a3098f599e457c8223ea39efb63ae44174a503dfe"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/semi10/visuals/val_11.png_panels.png",
+      "bytes": 399959,
+      "sha256": "9dc148c3dcf81f9cfc9b9baabfebd0c5ba673b72152e2349be2b0f2cf4ffb04c"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/sl10.log",
+      "bytes": 1159,
+      "sha256": "b72550472d33f93f99788d58e656902383fa74030bccdf4c045200f0b0e8d246"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/sl10/best.pt",
+      "bytes": 5457313,
+      "sha256": "f9e6f476763cffb42926e0ee77ecbe961dd0d6f46c7711bfe5e5fd74f17d8e54"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/sl10/config.json",
+      "bytes": 3755,
+      "sha256": "a3a75997d88fc909e775b128c1a30ddc22a0e24e04dc4c46fd8c10bae1f5254f"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/sl10/history.json",
+      "bytes": 33609,
+      "sha256": "3e684fe81d5f033f52fab8f028c638a6222f6b05b57ecc56b9e3106e952581f5"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/sl10/last.pt",
+      "bytes": 16382617,
+      "sha256": "2af8dd384858a16893c3a6215cfca5fe2dbdd81109bd547486c004120e359848"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/sl10/latest_validation.json",
+      "bytes": 23298,
+      "sha256": "6877480a2c00b4fd9f43bb3157a2e3cf2a8404e6ae64fec5c43cea99cb94ad54"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/sl10/result.json",
+      "bytes": 1085,
+      "sha256": "c5afbc6d6c15f666f119f35d49638b870a02ef4ae943456d77aae894ea0321d6"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/sl10/runtime.json",
+      "bytes": 128,
+      "sha256": "70497f07b359b2c6907958a131d4d866967abe112b66c9b1c21ddddf2a803f55"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/sl10/visuals/val_1.png_panels.png",
+      "bytes": 309236,
+      "sha256": "2495ac666d87fc094e0dcd148eb7d8a8d797980770c5bae7905bc59fa43e78a2"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/sl10/visuals/val_10.png_panels.png",
+      "bytes": 329038,
+      "sha256": "f2e95b92e496ed1bb55118fcca44c0f466776f44ab175e36aafb01e1dd610596"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/sl10/visuals/val_11.png_panels.png",
+      "bytes": 348454,
+      "sha256": "bc98eb43288ffbb9321081bec12ca839cd4de6feb2d9495eaf4071bc62349398"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/summary.json",
+      "bytes": 9526,
+      "sha256": "8be78de1a86bf86012c65bc78c87450a255120deae4119d42177145dc684eb3e"
+    },
+    {
+      "archive_path": "项目/D08_PairedPilot15000/results/task.json",
+      "bytes": 3799,
+      "sha256": "99391ecd83afe9ec0157a4fa0dc5a4a32d2bf8f6b4bea766790151efd9f32706"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/inputs/labeled_names.json",
+      "bytes": 735,
+      "sha256": "a7d05fe01ffc43d521772178e2f3e580a3395c21e4eaf425e8093e95f132648a"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/inputs/manifests/labeled10.json",
+      "bytes": 14999,
+      "sha256": "60618a596191928ef2d6caa55e953e995a213ca3a2c4541a089bfc09bcb5e452"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/inputs/manifests/unlabeled10.json",
+      "bytes": 94354,
+      "sha256": "10b6e8e1b1ecd62438da3cb8374ba4bdbb4410d4b87bb34948241a73443840c5"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/inputs/manifests/val.json",
+      "bytes": 20703,
+      "sha256": "70989bc123bad88f30956d8812f40967c79b8cd63745bfd6dd53b8926ea3dd26"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/pilot.py",
+      "bytes": 14418,
+      "sha256": "f7eef9eb6e3d34b232035811aa30f1d6ca4a4e76b7a7e1c913c6608b98bc1857"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/results/executed_worker.py",
+      "bytes": 16993,
+      "sha256": "641daf31fe70ba6a3056793f44413950a79c582f08d326f04d07d2dd929b811e"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/results/manifests/labeled10.json",
+      "bytes": 14999,
+      "sha256": "60618a596191928ef2d6caa55e953e995a213ca3a2c4541a089bfc09bcb5e452"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/results/manifests/unlabeled10.json",
+      "bytes": 94354,
+      "sha256": "10b6e8e1b1ecd62438da3cb8374ba4bdbb4410d4b87bb34948241a73443840c5"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/results/manifests/val.json",
+      "bytes": 20703,
+      "sha256": "70989bc123bad88f30956d8812f40967c79b8cd63745bfd6dd53b8926ea3dd26"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/results/preflight.json",
+      "bytes": 3732,
+      "sha256": "72f10f5ed5e985cc58e3db873cbd155ca1a00462b9aa5598d008eaed3ddfd24c"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/results/semi10.log",
+      "bytes": 980,
+      "sha256": "e664ffb475e31d501a307e38be8d573b55ec232f6604f5a0382ec96eaad2b709"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/results/semi10/best.pt",
+      "bytes": 5457313,
+      "sha256": "753281892271e2f7e39182cab1a4ec8d255dced26b9d2f5a8370f6d1f820d512"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/results/semi10/config.json",
+      "bytes": 3763,
+      "sha256": "b684948c945f13be2459c3aabedce4f9894872c77b7ff6b4ba5622863203fdcc"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/results/semi10/history.json",
+      "bytes": 27542,
+      "sha256": "95a5ace13a6c2ab8394b0fcfdaedb9214ddf831eededcbb37200640b4da16a06"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/results/semi10/last.pt",
+      "bytes": 21837051,
+      "sha256": "7f3c93b03f2599afdc740e9536a150a2bb32650f061be5f57ad4693eeef48258"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/results/semi10/latest_validation.json",
+      "bytes": 23175,
+      "sha256": "23950db0882202e6836e5c2a23e50d3c37c470293d1dc25ca1ec1840e505f11f"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/results/semi10/result.json",
+      "bytes": 1117,
+      "sha256": "852345426e27434804aa2f64458a43ba9238f8e843c97021f2de56d9078021fc"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/results/semi10/runtime.json",
+      "bytes": 128,
+      "sha256": "695081e970d7ec6325b06f20a41bb39a752d3ad085a65be5b5698fcfcaede9ef"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/results/semi10/visuals/val_1.png_panels.png",
+      "bytes": 309213,
+      "sha256": "0f31c3cdf99674f5c8e8537cdbc7f130ccd51a5ff740396525435467fad5b086"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/results/semi10/visuals/val_10.png_panels.png",
+      "bytes": 330909,
+      "sha256": "885543fff70bdc38581839bb5fdd28a96c45ac6be4b6f9e14b1d2cd8a566dc13"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/results/semi10/visuals/val_11.png_panels.png",
+      "bytes": 349072,
+      "sha256": "2e1e4230db6762cc10e74cfcf4973d74b7d57d7699562348104eb45ab03d1496"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/results/sl10.log",
+      "bytes": 1157,
+      "sha256": "eeb3f350b242ef92dbeb117089c416c77b245c4cca49147c4a045569c1e974b2"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/results/sl10/best.pt",
+      "bytes": 5457313,
+      "sha256": "6894fe878791e6a93db22df941660a0e4116176ab4b06b7a481128817a15d8af"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/results/sl10/config.json",
+      "bytes": 3759,
+      "sha256": "3800074e7516f5ab5b63c7091d8a722f31608a758454b72da314299307239b99"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/results/sl10/history.json",
+      "bytes": 33601,
+      "sha256": "c1c4554afb8210251a4c3f602053ad63aa1da50fd17b296ede577a8c421c00e5"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/results/sl10/last.pt",
+      "bytes": 16382553,
+      "sha256": "9bbe833697cfe28662fb56b9983069a939b1e86ceb250ab415855eeeca7f1f05"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/results/sl10/latest_validation.json",
+      "bytes": 23281,
+      "sha256": "404be186ec4bd76dbca1edb83ead6666cadcb154b45e7f1b6ce03f6029482643"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/results/sl10/result.json",
+      "bytes": 1087,
+      "sha256": "bfc5ace1bcbe62a1eef7a2bdf75d789fec862c4fa71816d419dce5da01509f1b"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/results/sl10/runtime.json",
+      "bytes": 128,
+      "sha256": "e63cc119d3176c59a883f02b2e4b6152f538646bae21e5c20c37b38ea8b6e305"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/results/sl10/visuals/val_1.png_panels.png",
+      "bytes": 309123,
+      "sha256": "d3c3791517e15982db1062ad50bda3512778aeb0cfb47f27a0f52d893f7fc5ae"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/results/sl10/visuals/val_10.png_panels.png",
+      "bytes": 334318,
+      "sha256": "23da5df410d0b4e4f8ec4daa6da0634fecfabc467076d1f7e531dd4c545192ee"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/results/sl10/visuals/val_11.png_panels.png",
+      "bytes": 350066,
+      "sha256": "b2882922aecea59a7f6137c9c5dca40d99d8546bcb51a833b34e483c9bf9eefc"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/results/summary.json",
+      "bytes": 9469,
+      "sha256": "2bf83b997984b06e30fb666964a743ed5a8fd47415cbb6dcf808ac170fa9fa3c"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/2026/results/task.json",
+      "bytes": 3803,
+      "sha256": "0ebb020b8c531fe2bfbdc62154a023bf330280e74eb77af3a8eacbf754aa9e4e"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/inputs/labeled_names.json",
+      "bytes": 736,
+      "sha256": "d4ba9b9a794308eef1865a637cd6bf61b51461980bec39f5eb659470bc0c5f44"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/inputs/manifests/labeled10.json",
+      "bytes": 15003,
+      "sha256": "0351d578f800473dbc676b80f12cf5bc22910ab8d80ea498d44b6339762c6d23"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/inputs/manifests/unlabeled10.json",
+      "bytes": 94351,
+      "sha256": "ad0799aa47d0c00da4b75667490f16e63dfd09c9193ee301fbed5bc8a8ef196a"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/inputs/manifests/val.json",
+      "bytes": 20703,
+      "sha256": "70989bc123bad88f30956d8812f40967c79b8cd63745bfd6dd53b8926ea3dd26"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/pilot.py",
+      "bytes": 14414,
+      "sha256": "382ff07ad7973adaf4e05c160cc2656e01c18d51bc19e0c964bcf57ced06b70c"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/results/executed_worker.py",
+      "bytes": 16993,
+      "sha256": "641daf31fe70ba6a3056793f44413950a79c582f08d326f04d07d2dd929b811e"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/results/manifests/labeled10.json",
+      "bytes": 15003,
+      "sha256": "0351d578f800473dbc676b80f12cf5bc22910ab8d80ea498d44b6339762c6d23"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/results/manifests/unlabeled10.json",
+      "bytes": 94351,
+      "sha256": "ad0799aa47d0c00da4b75667490f16e63dfd09c9193ee301fbed5bc8a8ef196a"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/results/manifests/val.json",
+      "bytes": 20703,
+      "sha256": "70989bc123bad88f30956d8812f40967c79b8cd63745bfd6dd53b8926ea3dd26"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/results/preflight.json",
+      "bytes": 3730,
+      "sha256": "99c2dc2f1ff2912ec46f8f1a03154f1c38683240775618ab61354c284e3372fa"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/results/semi10.log",
+      "bytes": 1223,
+      "sha256": "80093d36f258a12e89673d9a3efa8e465ac216672e0a98d0f479739b4054f9b8"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/results/semi10/best.pt",
+      "bytes": 5457313,
+      "sha256": "4c1098d445a5f143fc10fee493a7080fb73b3aa2ef67748222e61710a29b776a"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/results/semi10/config.json",
+      "bytes": 3759,
+      "sha256": "9bbff3a5754a46416b152a47828bc2af9558226bac444bf4a809423519bfa4b0"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/results/semi10/history.json",
+      "bytes": 34330,
+      "sha256": "ff039f405e099a62d89979fa82db5659a823015998de135acf2a07e1b1379d6f"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/results/semi10/last.pt",
+      "bytes": 21841787,
+      "sha256": "71e3dc6abaabab16fec5b07df5e85a86c2d0b350b8bbf4a87e54afed0829f362"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/results/semi10/latest_validation.json",
+      "bytes": 23283,
+      "sha256": "e1e5acad6e0202cd2ce0c67f99b2f5748e01dc2dc6cac1b3e25ee90833f1ee04"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/results/semi10/result.json",
+      "bytes": 1116,
+      "sha256": "2aef4aa4f2a3fbb2543766fe647d543f5ef5f81cd078bf6412e1ecfcc686cbc2"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/results/semi10/runtime.json",
+      "bytes": 127,
+      "sha256": "e7cec955a20a0aa47d6124c08df11bb16e5517474d338d1c0542556de66506a8"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/results/semi10/visuals/val_1.png_panels.png",
+      "bytes": 309594,
+      "sha256": "c714f2f8d1b24ae95f8763abb9e2f7009365cdac5567e1d551803a0025bd03fe"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/results/semi10/visuals/val_10.png_panels.png",
+      "bytes": 330302,
+      "sha256": "ac961fc995e65db1d5d962a2a85ca345115a742c7641472e1a233b55bdf586ef"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/results/semi10/visuals/val_11.png_panels.png",
+      "bytes": 350407,
+      "sha256": "20b4b12812163929628169771c60550cb8c2223eefa48713e53c885b98e06829"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/results/sl10.log",
+      "bytes": 1160,
+      "sha256": "0216d9639091d5e005114e0e1995f14ba309b8181bd24b3449bc9ea0c189b9c5"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/results/sl10/best.pt",
+      "bytes": 5457313,
+      "sha256": "9be33c749787f220377151c3f0105ccedf8118e950f07cf3a97ab140fa14ea5a"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/results/sl10/config.json",
+      "bytes": 3755,
+      "sha256": "e1fba50125b7765357a71e8edc249016962a3bed8b661b49c348ea37ee57ac44"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/results/sl10/history.json",
+      "bytes": 33525,
+      "sha256": "082e2bb18e27c8c64127ef2eac4d975762a5d8dd70d662b597e0aa1dd93a470a"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/results/sl10/last.pt",
+      "bytes": 16382617,
+      "sha256": "9c2f5af34346d09c22d52d180870feac21bfdb2793a7085be8870d3fb6b8540d"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/results/sl10/latest_validation.json",
+      "bytes": 23211,
+      "sha256": "67ea07380b689975d90c7daf411b0938b75f5b44fb9f93201bf6f9f7adc22251"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/results/sl10/result.json",
+      "bytes": 1081,
+      "sha256": "4fdaa26fc9b6f8a9a11874d837ce9a4107a23cbfe77c5ec86e0cf655e00b2cb3"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/results/sl10/runtime.json",
+      "bytes": 127,
+      "sha256": "78b6915c8c75d870b194c9bd8bdfab0a355223d28eb6191a44c0bb5d68474a23"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/results/sl10/visuals/val_1.png_panels.png",
+      "bytes": 309553,
+      "sha256": "b8e7abd8f973e673e8370a38a84afed509d0053d76041fefe055febb26b00393"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/results/sl10/visuals/val_10.png_panels.png",
+      "bytes": 328410,
+      "sha256": "48d6d221773015736f1af1dbb61e869bb5841f2e17a2c81916c046b49471712b"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/results/sl10/visuals/val_11.png_panels.png",
+      "bytes": 349801,
+      "sha256": "057694783972d0bc69ac7f210ac4538cc1e35934176be75501180e5a07592344"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/results/summary.json",
+      "bytes": 9509,
+      "sha256": "bdae9f3ba9ac2c16fac142a0b9ed99ae83075c8a073b7e79f5f693055a0c0de9"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/42/results/task.json",
+      "bytes": 3799,
+      "sha256": "873bb88ddc4b674d8349b5d6d9ce280f1ac1c762a710ab646bfb36370936d3ed"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/continuation-2026-B/results/executed_worker.py",
+      "bytes": 16993,
+      "sha256": "641daf31fe70ba6a3056793f44413950a79c582f08d326f04d07d2dd929b811e"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/continuation-2026-B/results/manifests/labeled10.json",
+      "bytes": 14999,
+      "sha256": "60618a596191928ef2d6caa55e953e995a213ca3a2c4541a089bfc09bcb5e452"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/continuation-2026-B/results/manifests/unlabeled10.json",
+      "bytes": 94354,
+      "sha256": "10b6e8e1b1ecd62438da3cb8374ba4bdbb4410d4b87bb34948241a73443840c5"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/continuation-2026-B/results/manifests/val.json",
+      "bytes": 20703,
+      "sha256": "70989bc123bad88f30956d8812f40967c79b8cd63745bfd6dd53b8926ea3dd26"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/continuation-2026-B/results/preflight.json",
+      "bytes": 3732,
+      "sha256": "72f10f5ed5e985cc58e3db873cbd155ca1a00462b9aa5598d008eaed3ddfd24c"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/continuation-2026-B/results/semi10/best.pt",
+      "bytes": 5457249,
+      "sha256": "7e264c5e01b14ee325e7fff8f4c505a77f04cfe3ca5ba4055cfc1141d3a06612"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/continuation-2026-B/results/semi10/config.json",
+      "bytes": 3763,
+      "sha256": "b684948c945f13be2459c3aabedce4f9894872c77b7ff6b4ba5622863203fdcc"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/continuation-2026-B/results/semi10/history.json",
+      "bytes": 34473,
+      "sha256": "58d4f55624aa330b3957bfbffb2398fe136db2855c3c8f95ed9d2a83dc0aa422"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/continuation-2026-B/results/semi10/last.pt",
+      "bytes": 21842171,
+      "sha256": "25cbbfe554caa0d9e207c8ca0e1dc0e80d69554f0865e7f31b73c217b7ef8e99"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/continuation-2026-B/results/semi10/latest_validation.json",
+      "bytes": 23183,
+      "sha256": "1768420d3e54f79c0b3f0214dd39b5655ff2aa71cf5fcd8cd74ea92da4b7177c"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/continuation-2026-B/results/semi10/result.json",
+      "bytes": 1116,
+      "sha256": "2a0fb0109453c4af7af619b0b07e96b95250164e6dd9a149b97b0cf9b6ccedc5"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/continuation-2026-B/results/semi10/runtime.json",
+      "bytes": 127,
+      "sha256": "cedca677b3b36c213f03fec75048f7ef4c5210ab8a81ee43b27d371dcc09ab02"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/continuation-2026-B/results/semi10/visuals/val_1.png_panels.png",
+      "bytes": 309186,
+      "sha256": "5623685bc1f33a122806df6bb1235c9f2cc82871699d8f9a620c60943ba54ede"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/continuation-2026-B/results/semi10/visuals/val_10.png_panels.png",
+      "bytes": 332175,
+      "sha256": "4d7cbef119483cee6f7b1c9409d4a7b44717f4c93eec9c23faf01d97d7e2db3d"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/continuation-2026-B/results/semi10/visuals/val_11.png_panels.png",
+      "bytes": 349987,
+      "sha256": "f20db06f7975d15432d03c6e4875c849aec79afb113f060bc691d04e84a82dc3"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/continuation-2026-B/results/summary.json",
+      "bytes": 7143,
+      "sha256": "3030720b46b72b8ce0a26d5062d8cdc2d5eee67ed056731ca9a3a761b943c597"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/continuation-2026-B/results/task.json",
+      "bytes": 4040,
+      "sha256": "905d5f7903d113f94653e087788b180978a70d2ae202c5149b7d230c8592e3fe"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/continuation-2026-B/resume.log",
+      "bytes": 238,
+      "sha256": "d765b7e46d0054aacfe83021f8864223da0186c3297f12f0d2c49da4ce740f4c"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/continuation-2026-B/resume.py",
+      "bytes": 4380,
+      "sha256": "f60c5ff43b3a337eecbb0be9301f8e26e3025917df2f27c582f9532a5e48b741"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/continuation-2026-B/resume_error.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/continuation-2026-B/three_seed_summary.json",
+      "bytes": 1819,
+      "sha256": "2207e65d5e3bbfa09b9eba29602b2c41f66555ebacc57e0ba85aa6e18d0d82cd"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/queue.json",
+      "bytes": 402,
+      "sha256": "771a7701e6d53249fe03e779a63f2c3789744a2aef676def540a9a684766415c"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/queue.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/queue_error.log",
+      "bytes": 403,
+      "sha256": "465f62d1a5e811526d0f795d19c6d952387564c9939999327a8aefb04a33d14e"
+    },
+    {
+      "archive_path": "项目/D08_ThreeSeeds/queue_runner.py",
+      "bytes": 3496,
+      "sha256": "edfca20f146b50d6e64ac58bca1c9fe517c78259393b01cb60175fe05b58da2e"
+    },
+    {
+      "archive_path": "项目/assets.json",
+      "bytes": 1808,
+      "sha256": "6d3d66d12bb784e290bc916a4413502cca0c8be0fdb26e8edb6f6cf2fc63313c"
+    },
+    {
+      "archive_path": "项目/baseline/cd/__init__.py",
+      "bytes": 46,
+      "sha256": "84680eadadbcd91257a9da6019705dd20365364b29731611b69d67c9a90c6f49"
+    },
+    {
+      "archive_path": "项目/baseline/cd/data.py",
+      "bytes": 2966,
+      "sha256": "400a7773aeebbb613d88f6129e78249e189583478e479e5acebc2c90e4b86139"
+    },
+    {
+      "archive_path": "项目/baseline/cd/evaluate.py",
+      "bytes": 3277,
+      "sha256": "6487098d4ab71f4dd7c98771abf377f1a613c15e41bef2d0e3f1d6271575566d"
+    },
+    {
+      "archive_path": "项目/baseline/cd/losses.py",
+      "bytes": 2196,
+      "sha256": "2939ca97cca65ae52b337563956889eb89f8e8283becfa707de1ed36548bb54a"
+    },
+    {
+      "archive_path": "项目/baseline/cd/metrics.py",
+      "bytes": 2037,
+      "sha256": "8a89e94bdbb8b69fe6de82351ab7b559c2f8a90dc6299df5d22d51e809375471"
+    },
+    {
+      "archive_path": "项目/baseline/cd/model.py",
+      "bytes": 351,
+      "sha256": "d48ea1a32149fffac1ea6d33b3618a2c000449cb48ca44565cac5a7e1a76367c"
+    },
+    {
+      "archive_path": "项目/baseline/cd/official_siamunet_diff.py",
+      "bytes": 7528,
+      "sha256": "7fb2db177141865333d931ff24c00c35b9df60481ce2b978d3db674867f01e07"
+    },
+    {
+      "archive_path": "项目/baseline/cd/prepare.py",
+      "bytes": 4064,
+      "sha256": "fbaa8db6ea806d189d6bcc3c3f232b9ae9c0f41b0f3c15d9186ac1c7ca82eb2b"
+    },
+    {
+      "archive_path": "项目/baseline/cd/train.py",
+      "bytes": 9610,
+      "sha256": "d09bf6077ccc42b9a802946137db26a7dc77286f74ae6b41e35b7557ec0cad9e"
+    },
+    {
+      "archive_path": "项目/baseline/cd/utils.py",
+      "bytes": 1210,
+      "sha256": "acb91743a8e3000341ac1e7fad40dd05485f7dfccf7f7dcc72b5c05c1b37291b"
+    },
+    {
+      "archive_path": "项目/config.json",
+      "bytes": 851,
+      "sha256": "e39a999c875b06d076795b23a8634dc6b5748b3f4a2574f3b1dff0008d6e179d"
+    },
+    {
+      "archive_path": "项目/manifests/seed17_labeled_names.json",
+      "bytes": 830,
+      "sha256": "7a715d2aee133ce454337998f9d852d5e538986232d671388c3c12431f70ac88"
+    },
+    {
+      "archive_path": "项目/requirements-win.txt",
+      "bytes": 75,
+      "sha256": "06f6544fadf97f74747c70fae4c54d21c213916b58861706aab1d5ede8f96f1b"
+    },
+    {
+      "archive_path": "项目/scripts/common.py",
+      "bytes": 1712,
+      "sha256": "e9a8d98a7a964ba07d5c44c444fe8f973a745d257365a93d7132013ffb4b2647"
+    },
+    {
+      "archive_path": "项目/scripts/preflight.py",
+      "bytes": 4433,
+      "sha256": "226f1ce198f89509ff7dfca6494ed0c8a4a12ffa42a272a3ffca339f3a271ca2"
+    },
+    {
+      "archive_path": "项目/scripts/report.py",
+      "bytes": 6165,
+      "sha256": "e42dc3fb576e5ce8c29d036b47830c3617a5fa79daca5dea091524d75771022f"
+    },
+    {
+      "archive_path": "项目/scripts/selftest.py",
+      "bytes": 5735,
+      "sha256": "6ce4651de384f40743d9d3a5999fa0a66fdf4934c17a4c996112ccbc3467a3b4"
+    },
+    {
+      "archive_path": "项目/scripts/supervisor.py",
+      "bytes": 8161,
+      "sha256": "30b96f57784673cde7c74c0393038596aea88e737feccc50c710afb0796e2442"
+    },
+    {
+      "archive_path": "项目/scripts/verify_package.py",
+      "bytes": 796,
+      "sha256": "1611c1b5958994d9f44c78409e87c4cf8788bd57ac13aa3953640058f7158554"
+    },
+    {
+      "archive_path": "项目/scripts/watchdog.py",
+      "bytes": 2190,
+      "sha256": "c9f5048400cf8bb3eeb3e93f1902b11d087b2ad227082fde134fdd66c712c64a"
+    },
+    {
+      "archive_path": "项目/scripts/worker.py",
+      "bytes": 16461,
+      "sha256": "d5df8a7667a7be32aa3b7c29b376e27b6fa2d6b417e20cecff2dba88b72b096e"
+    }
+  ]
+}

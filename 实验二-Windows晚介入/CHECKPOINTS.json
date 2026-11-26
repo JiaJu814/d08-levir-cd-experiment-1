@@ -1,0 +1,41 @@
+{
+  "protocol_file": "正式测试/protocol.json",
+  "checkpoints": [
+    {
+      "seed": 17,
+      "arm": "A",
+      "archive_path": "项目/D08_PairedPilot15000/results/sl10/best.pt",
+      "sha256": "f9e6f476763cffb42926e0ee77ecbe961dd0d6f46c7711bfe5e5fd74f17d8e54"
+    },
+    {
+      "seed": 17,
+      "arm": "B",
+      "archive_path": "项目/D08_LatePseudo15000/results/semi10/best.pt",
+      "sha256": "0e11f2d87fc952bdfcf1d616c971cadb887743258df854b4609ca7279c253886"
+    },
+    {
+      "seed": 42,
+      "arm": "A",
+      "archive_path": "项目/D08_ThreeSeeds/42/results/sl10/best.pt",
+      "sha256": "9be33c749787f220377151c3f0105ccedf8118e950f07cf3a97ab140fa14ea5a"
+    },
+    {
+      "seed": 42,
+      "arm": "B",
+      "archive_path": "项目/D08_ThreeSeeds/42/results/semi10/best.pt",
+      "sha256": "4c1098d445a5f143fc10fee493a7080fb73b3aa2ef67748222e61710a29b776a"
+    },
+    {
+      "seed": 2026,
+      "arm": "A",
+      "archive_path": "项目/D08_ThreeSeeds/2026/results/sl10/best.pt",
+      "sha256": "6894fe878791e6a93db22df941660a0e4116176ab4b06b7a481128817a15d8af"
+    },
+    {
+      "seed": 2026,
+      "arm": "B",
+      "archive_path": "项目/D08_ThreeSeeds/continuation-2026-B/results/semi10/best.pt",
+      "sha256": "7e264c5e01b14ee325e7fff8f4c505a77f04cfe3ca5ba4055cfc1141d3a06612"
+    }
+  ]
+}
